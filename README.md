@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @cmdavis21
-- 👀 I’m interested in building technical coding skills to compliment my marketing career
+- 👋 Hi, I’m Chyna
+- 👀 I’m interested in building technical coding skills that will compliment my marketing career
 - 🌱 I’m currently learning front-end and back-end development
 - 💞️ I’m looking to collaborate on simple projects to build my knowledge and skills
 - 📫 How to reach me: LinkedIn @ linkedin.com/in/chynamdavis
