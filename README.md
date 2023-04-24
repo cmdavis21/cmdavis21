@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chyna
-- 👀 I’m interested in building technical coding skills that will compliment my marketing career
-- 🌱 I’m currently learning front-end and back-end development
-- 💞️ I’m looking to collaborate on simple projects to build my knowledge and skills
+- 👀 I’m a beginner developer interested in building my programming knowledge and skills
+- 🌱 I’m currently learning front-end and back-end development in Java and JavaScript
+- 💞️ I’m looking to collaborate on simple projects
 - 📫 How to reach me: LinkedIn @ linkedin.com/in/chynamdavis
 
 <!---
