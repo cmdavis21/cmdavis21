@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Chyna
-- 👀 I’m a beginner developer interested in building my programming knowledge and skills
-- 🌱 I’m currently learning front-end and back-end development in Java and JavaScript
-- 💞️ I’m looking to collaborate on simple projects
+- 👀 I’m a web developer interested in building my programming knowledge and skills
+- 🌱 I’m currently learning React Native, Expo, and mobile app development
 - 📫 How to reach me: LinkedIn @ linkedin.com/in/chynamdavis
 
 <!---
